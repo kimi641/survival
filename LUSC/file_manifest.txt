@@ -1,0 +1,19 @@
+Platform Type	Center	Platform	Level	Sample	Barcode	File Name
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_aliquot_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_analyte_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_cqcf_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_diagnostic_slides_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_normal_control_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_portion_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_protocol_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_sample_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_shipment_portion_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_slide_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_biospecimen_tumor_sample_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_cqcf_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_drug_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_follow_up_v1.0_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_nte_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_omf_v4.0_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_patient_lusc.txt
+Clinical	Biotab	n/a	n/a	selected_samples	N/A	nationwidechildrens.org_clinical_radiation_lusc.txt
